@@ -1,0 +1,9 @@
+{
+  "name": "jabal-najd-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable Arabic website for Jabal Najd Holding Company",
+  "scripts": {
+    "start": "node preview.cjs"
+  }
+}
